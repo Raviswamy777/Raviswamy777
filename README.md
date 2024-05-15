@@ -31,7 +31,7 @@ This is the place where I open source stuff and break things 👨‍💻
 ### Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raviswamyp/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ipavan_teja)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xraviswamy)
 [![Email](https://img.shields.io/badge/Gmail-%23E4410F.svg?logo=Gmail&logoColor=white)](mailto:raviswamyp@gmail.com)
 
 ### GitHub Analytics:
